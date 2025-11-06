@@ -21,32 +21,32 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 1.Basic Data Types
 
-- [ ] Numbers Exercises
-- [ ] Strings Exercises
+- [X] Numbers Exercises
+- [X] Strings Exercises
 
 #### 6.Arrays
 
-- [ ] Array Exercises
+- [X] Array Exercises
 
 #### 7.Hashes
 
-- [ ] Hash Exercises
+- [X] Hash Exercises
 
 #### 8.Methods
 
-- [ ] Method Exercises
+- [X] Method Exercises
 
 #### 9.Debugging
 
-- [ ] Debugging Exercises
+- [X] Debugging Exercises
 
 #### 10.Basic Enumerables
 
-- [ ] Basic Enumerable Exercises
+- [X] Basic Enumerable Exercises
 
 #### 11.Predicate Enumerables
 
-- [ ] Predicate Enumerable Exercises
+- [X] Predicate Enumerable Exercises
 
 #### 12.Nested Collections
 
