@@ -13,4 +13,5 @@ def caesar_cipher(message, shift)
   end.join
 end
 
+# In terminal: ruby ceasar_cipher.rb
 puts caesar_cipher('What a string!', 5) if $PROGRAM_NAME == __FILE__
